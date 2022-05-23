@@ -1,5 +1,6 @@
-# Final_Assessment(JAVA)
-Q1- Calculator<br/>
-Q2- Student Registration System<br/>
-Q3- Inhertance and Interfaces<br/>
-# Java-GUI
+### Implementing GUI in JAVA
+#### SRC
+##### Calculator- Calculator implementing simple arithmetic operations.
+##### Student_Registration- Full Stack application that allows for student registration. 
+
+
